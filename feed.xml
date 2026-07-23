@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+
+<title>KnowledgeCast</title>
+
+<link>https://YOUR_USERNAME.github.io/KnowledgeCast/</link>
+
+<description>
+AI Generated Business Knowledge Podcast
+</description>
+
+<language>ja-JP</language>
+
+<itunes:author>KnowledgeCast</itunes:author>
+
+<itunes:summary>
+Daily AI-generated business knowledge podcast.
+</itunes:summary>
+
+<itunes:explicit>false</itunes:explicit>
+
+</channel>
+
+</rss>
