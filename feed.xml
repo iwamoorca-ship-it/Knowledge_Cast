@@ -20,7 +20,26 @@ AI Generated Business Knowledge Podcast
 <itunes:summary>
 Daily AI-generated business knowledge podcast.
 </itunes:summary>
+<item>
 
+<title>KnowledgeCast Test Episode</title>
+
+<description>
+This is the first test episode.
+</description>
+
+<pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+
+<guid>
+https://YOUR_USERNAME.github.io/KnowledgeCast/media/test.mp3
+</guid>
+
+<enclosure
+    url="https://YOUR_USERNAME.github.io/KnowledgeCast/media/test.mp3"
+    length="123456"
+    type="audio/mpeg" />
+
+</item>
 <itunes:explicit>false</itunes:explicit>
 
 </channel>
