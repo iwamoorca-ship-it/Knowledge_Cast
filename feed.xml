@@ -7,7 +7,7 @@
 
 <title>KnowledgeCast</title>
 
-<link>https://YOUR_USERNAME.github.io/KnowledgeCast/</link>
+<link>https://iwamoorca-ship-it.github.io/KnowledgeCast/</link>
 
 <description>
 AI Generated Business Knowledge Podcast
@@ -20,6 +20,11 @@ AI Generated Business Knowledge Podcast
 <itunes:summary>
 Daily AI-generated business knowledge podcast.
 </itunes:summary>
+
+<itunes:image href="https://iwamoorca-ship-it.github.io/KnowledgeCast/assets/cover.jpg"/>
+
+<itunes:explicit>false</itunes:explicit>
+
 <item>
 
 <title>KnowledgeCast Test Episode</title>
@@ -36,11 +41,11 @@ https://iwamoorca-ship-it.github.io/KnowledgeCast/media/test.mp3
 
 <enclosure
     url="https://iwamoorca-ship-it.github.io/KnowledgeCast/media/test.mp3"
-    length="123456"
+    length="960047"
     type="audio/mpeg" />
 
 </item>
-<itunes:explicit>false</itunes:explicit>
+
 
 </channel>
 
