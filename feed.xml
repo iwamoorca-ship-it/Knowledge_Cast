@@ -20,7 +20,9 @@ AI Generated Business Knowledge Podcast
 <itunes:summary>
 Daily AI-generated business knowledge podcast.
 </itunes:summary>
-
+     
+<itunes:category text="Business"/>
+     
 <itunes:image href="https://iwamoorca-ship-it.github.io/KnowledgeCast/assets/cover.jpg"/>
 
 <itunes:explicit>false</itunes:explicit>
@@ -28,7 +30,11 @@ Daily AI-generated business knowledge podcast.
 <item>
 
 <title>KnowledgeCast Test Episode</title>
-
+     
+<link>
+https://iwamoorca-ship-it.github.io/KnowledgeCast/
+</link>
+     
 <description>
 This is the first test episode.
 </description>
