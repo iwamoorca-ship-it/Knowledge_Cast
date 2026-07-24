@@ -1,58 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-
-<channel>
-
-<title>Knowledge_Cast</title>
-
-<link>https://iwamoorca-ship-it.github.io/Knowledge_Cast/</link>
-
-<description>
-AI Generated Business Knowledge Podcast
-</description>
-
-<language>ja-JP</language>
-
-<itunes:author>Iwamorca</itunes:author>
-
-<itunes:summary>
-Daily AI-generated business knowledge podcast.
-</itunes:summary>
-     
-<itunes:category text="Non-Profit"/>
-     
-<itunes:image href="https://iwamoorca-ship-it.github.io/Knowledge_Cast/assets/cover.jpg"/>
-
-<itunes:explicit>false</itunes:explicit>
-
-<item>
-
-<title>KnowledgeCast Test Episode</title>
-     
-<link>
-https://iwamoorca-ship-it.github.io/Knowledge_Cast/
-</link>
-     
-<description>
-This is the first test episode.
-</description>
-
-<pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
-
-<guid>
-https://iwamoorca-ship-it.github.io/Knowledge_Cast/media/test.mp3
-</guid>
-
-<enclosure
-    url="https://iwamoorca-ship-it.github.io/Knowledge_Cast/media/test.mp3"
-    length="960047"
-    type="audio/mpeg" />
-
-</item>
-
-
-</channel>
-
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Knowledge_Cast</title>
+        <link>https://iwamoorca-ship-it.github.io/Knowledge_Cast/</link>
+        <description>AI Generated Business Knowledge Podcast</description>
+        <language>ja-JP</language>
+        <ns0:author>Iwamorca</ns0:author>
+        <ns0:summary>Daily AI-generated business knowledge podcast.</ns0:summary>
+        <ns0:category text="Non-Profit" />
+        <ns0:image href="https://iwamoorca-ship-it.github.io/Knowledge_Cast/assets/cover.jpg" />
+        <ns0:explicit>false</ns0:explicit>
+        <item>
+            <title>KnowledgeCast Test Episode</title>
+            <link>https://iwamoorca-ship-it.github.io/Knowledge_Cast/</link>
+            <description>This is the first test episode.</description>
+            <pubDate>Fri, 24 Jul 2026 04:00:00 +0000</pubDate>
+            <guid>https://iwamoorca-ship-it.github.io/Knowledge_Cast/media/test.mp3</guid>
+            <enclosure url="https://iwamoorca-ship-it.github.io/Knowledge_Cast/media/test.mp3" length="960047" type="audio/mpeg" />
+        </item>
+    </channel>
 </rss>
