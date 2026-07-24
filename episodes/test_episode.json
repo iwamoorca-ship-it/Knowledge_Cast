@@ -1,11 +1,11 @@
 {
-  "guid": "knowledgecast-test-001",
+  "guid": "knowledgecast-test-002",
 
   "title": "KnowledgeCast Test Episode",
 
   "description": "This is the first test episode.",
 
-  "publish_date": "2026-07-23T14:00:00+09:00",
+  "publish_date": "2026-07-24T13:00:00+09:00",
 
   "audio": {
     "path": "media/test.mp3",
